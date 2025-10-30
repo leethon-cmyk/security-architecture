@@ -1,0 +1,11 @@
+user_id,username,email,password_hash,credit_card,ssn,phone,address
+1001,john_doe,john.doe@email.com,5f4dcc3b5aa765d61d8327deb882cf99,4532-1234-5678-9010,123-45-6789,+27-11-555-0101,"123 Main St, Johannesburg"
+1002,jane_smith,jane.smith@email.com,e10adc3949ba59abbe56e057f20f883e,5425-2345-6789-0123,234-56-7890,+27-21-555-0202,"456 Oak Ave, Cape Town"
+1003,bob_johnson,bob.j@email.com,25d55ad283aa400af464c76d713c07ad,4916-3456-7890-1234,345-67-8901,+27-31-555-0303,"789 Pine Rd, Durban"
+1004,alice_williams,alice.w@email.com,5ebe2294ecd0e0f08eab7690d2a6ee69,6011-4567-8901-2345,456-78-9012,+27-12-555-0404,"321 Elm St, Pretoria"
+1005,charlie_brown,charlie.b@email.com,7c6a180b36896a0a8c02787eeafb0e4c,3782-567890-12345,567-89-0123,+27-41-555-0505,"654 Maple Dr, Port Elizabeth"
+1006,diana_prince,diana.p@email.com,6cb75f652a9b52798eb6cf2201057c73,4111-1111-1111-1111,678-90-1234,+27-51-555-0606,"987 Cedar Ln, Bloemfontein"
+1007,eve_adams,eve.a@email.com,819b0643d6b89dc9b579fdfc9094f28e,5500-0000-0000-0004,789-01-2345,+27-11-555-0707,"147 Birch Way, Sandton"
+1008,frank_castle,frank.c@email.com,34819d7beeabb9260a5c854bc85b3e44,3714-496353-98431,890-12-3456,+27-21-555-0808,"258 Willow Ct, Stellenbosch"
+1009,grace_hopper,grace.h@email.com,098f6bcd4621d373cade4e832627b4f6,6011-0009-9013-9424,901-23-4567,+27-31-555-0909,"369 Ash Blvd, Pietermaritzburg"
+1010,henry_ford,henry.f@email.com,5f4dcc3b5aa765d61d8327deb882cf99,4532-8888-8888-8888,012-34-5678,+27-12-555-1010,"741 Spruce St, Centurion"

@@ -1,0 +1,59 @@
+# Python Dependencies
+# ⚠️ SECURITY ISSUE: These packages are VERY outdated and have known vulnerabilities!
+
+# Web Framework (extremely old version with CVEs)
+flask==0.12.2
+
+# HTTP Library (2014 version - ancient!)
+requests==2.6.0
+
+# YAML Parser (known vulnerability CVE-2017-18342)
+pyyaml==3.12
+
+# SQL Database (old version with security issues)
+sqlalchemy==1.0.0
+
+# Crypto Library (outdated)
+cryptography==2.0
+
+# JWT Library (old version)
+pyjwt==1.5.0
+
+# Template Engine (old Jinja2)
+jinja2==2.8
+
+# URL Parsing (vulnerable version)
+urllib3==1.21
+
+# XML Parser (vulnerable to XXE attacks)
+lxml==3.5.0
+
+# Password Hashing (old version)
+bcrypt==3.1.0
+
+# Redis Client
+redis==2.10.5
+
+# Celery (old version)
+celery==3.1.25
+
+# Serialization (insecure pickle usage)
+pickle-mixin==1.0.2
+
+# Date/Time Library
+python-dateutil==2.6.0
+
+# Environment Variables
+python-dotenv==0.7.1
+
+# HTTP Client
+httplib2==0.10.3
+
+# JSON Web Tokens
+authlib==0.10
+
+# Database Driver
+psycopg2==2.7.1
+
+# Form Validation
+wtforms==2.1
